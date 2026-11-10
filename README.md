@@ -139,13 +139,6 @@ I enjoy transforming complex ideas into practical AI applications — from exper
   <img src="https://streak-stats.demolab.com?user=mohssineassel&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://github.com/mohssineassel/mohssineassel/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
 
 ---
 
